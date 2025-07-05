@@ -42,4 +42,4 @@
 响应式设计：自适应不同设备，提供最佳用户体验。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/su4569/12316 ）</span>
